@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is José Guilherme! I'm a 19 years old Computational Physics undergraduate at University of São Paulo 📚</p>
+<p align="left">My name is José Guilherme! I'm a 19 years old Information Systems undergraduate at University of São Paulo 📚</p>
 
 ###
 
