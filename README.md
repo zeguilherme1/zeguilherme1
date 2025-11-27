@@ -1,8 +1,8 @@
-<h1 align="center">Welcome! 👋</h1>
+<h1 align="center">Welcome! :)</h1>
 
 ###
 
-<p align="left">My name is José Guilherme! I'm a 19 years old Information Systems undergraduate at University of São Paulo 📚</p>
+<p align="left">My name is José Guilherme! I'm a 20 years old Information Systems undergraduate at University of São Paulo 📚</p>
 
 ###
 
@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">- I'm into cybersecurity world and like to play CTF's, especially solving web security challenges!  💾<br><br>- Like to solve competitive programming exercises at Codeforces 🧮<br><br>- Appreciate Open Source software, currently member of GELOS (Libre and Open Source Extension Group) at my university. 💻<br><br>- I enjoy 90's movies with technology aesthetics (Matrix, Ghost in The Shell, Hackers (1995)), Music (many genres but especially Nu Metal), love study math/computer science and hangout with my friends! 🎃</p>
+<p align="left">- I'm into cybersecurity world and like to play CTF's, especially solving web security challenges!  💾<br><br>
+- Like to solve competitive programming exercises at Codeforces 🧮<br><br>
+- Currently doing a Undergraduate Research, contributing to the development of PyMR, a Python framework used for Nuclear Magnetic Resonance (RMN) analysis. 🧮<br><br>
+- Appreciate Open Source software, currently member of GELOS (Libre and Open Source Extension Group) at my university. 💻<br><br>
+- I enjoy 90's movies with technology aesthetics (Matrix, Ghost in The Shell, Hackers (1995)), Music (many genres but especially Nu Metal), love study math/computer science and hangout with my friends! 🎃</p>
 
 ###
 
@@ -18,26 +22,8 @@
 
 ###
 
-<div align="center">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,bash,vim,linux,vscode,git,)](https://skillicons.dev)
+
 
 ###
 
