@@ -22,7 +22,13 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,bash,vim,linux,vscode,git,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,bash,vim,linux,vscode,git,)" />
+  </a>
+</p>
+
+
 
 
 ###
